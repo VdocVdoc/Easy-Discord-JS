@@ -7,5 +7,6 @@ Use the generated link and invite the bot to your server. The bot will be offlin
 
 1. Install the code from GitHub
 2. Download Discord.js using: npm install discord.js
-3. Run the code: node index.js
-4. Enjoy!
+3. In the file config.json, change the token that you copied.
+4. Run the code: node index.js
+5. Enjoy!
